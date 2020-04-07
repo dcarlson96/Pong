@@ -1,1 +1,1 @@
-Simple Pong Game to help me learn the basic of IOS development and introduction into Swift
+Simple Pong Game to help me learn the basics of IOS development and as an introduction into Swift
